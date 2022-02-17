@@ -1,0 +1,35 @@
+body{
+  margin: 0;
+  font-family: 'Open Sans', sans-serif;
+  text-align: center;
+}
+
+.heading{
+  font-size: 180%;
+  font-weight: bold;
+  padding: 4%;
+  color: white;
+  background-color: #B19CAE;
+}
+
+.time{
+  font-size: 300%;
+  padding: 7%;
+}
+
+button{
+  font-size: 120%;
+  font-weight: bold;
+  font-family: 'Open Sans', sans-serif;
+  padding: 1%;
+  margin: 2%;
+  border-style: solid;
+  border-radius: 45%;
+  border-color: #B891E3;
+  color: #7040A0;
+}
+
+button:hover{
+  background-color: #7040A0;
+  color: #B891E3;
+}
